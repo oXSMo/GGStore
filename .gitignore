@@ -1,0 +1,21 @@
+it add# Node.js specific files
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# OS specific files
+/.DS_Store
+/Thumbs.db
+
+# Logs and Build Files
+logs/
+build/
+
+# Test files
+/test/
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
+.env
